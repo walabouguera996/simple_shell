@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * bfree - frees a pointer and NULLs the address
+ * bfree - frees a pointer and nulls the address
  * @ptr: address
  *
  * Return: 1 if free else 0.
