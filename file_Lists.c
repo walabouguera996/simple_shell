@@ -34,7 +34,7 @@ list_t *add_n(list_t **head, const char *str, int n)
 }
 
 /**
- * add_n_e - adds a node to the end of the list
+ * add_n_e - adds a node at the end of the list
  * @head: address
  * @str: string
  * @n: node index
@@ -75,8 +75,8 @@ list_t *add_n_e(list_t **head, const char *str, int n)
 }
 
 /**
- * print_l_s - prints only the str element of a list_t
- * @pfn: pointer to first node
+ * print_l_s - prints only the str element of a list_t.
+ * @pfn: pointer to first node.
  *
  * Return: size
  */
