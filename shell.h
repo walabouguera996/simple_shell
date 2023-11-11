@@ -98,7 +98,7 @@ typedef struct pif
 /**
  *struct bsrf - contains a builtin string and related function
  *@type: the builtin command flag
- *@f: the function
+ *@func: the function
  */
 typedef struct bsrf
 {
